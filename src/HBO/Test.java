@@ -12,8 +12,5 @@ public class Test {
 	}
 	
 
-	public void TV() {
-		System.out.println("AMC TV");
-	}
 	
 }
