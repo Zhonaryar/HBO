@@ -7,4 +7,7 @@ public class Test {
 
 	}
 
+	public void AMC () {
+		
+	}
 }
